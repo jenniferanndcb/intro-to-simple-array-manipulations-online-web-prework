@@ -34,8 +34,9 @@ def using_uniq (arr)
   arr.uniq 
 end
 
-def using_flatten (arr_w_other_arrays)
-  arr.flatten
+def using_flatten (arr1[arr2])
+  arr3 = arr1[arr2].flatten
+  return arr3
 end
 
 
